@@ -10,7 +10,7 @@ W-AnywhereGPT，一款创新的桌面应用程序，让您能在任何场景下�
 
 ***
 
-https://github.com/wlhtea/W-AnywhereGPT/blob/master/W-AnywhereGPT.mp4
+[https://github.com/wlhtea/W-AnywhereGPT/blob/master/W-AnywhereGPT.mp4](https://github.com/wlhtea/W-AnywhereGPT/assets/115779315/e32af71e-a71c-42e7-a2e6-494f9df4ecb9)
 
 ***
 
