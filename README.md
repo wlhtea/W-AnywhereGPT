@@ -8,7 +8,7 @@
 
 W-AnywhereGPT，一款创新的桌面应用程序，让您能在任何场景下快速利用 ChatGPT 的强大功能。无论是专业术语查询、语言翻译、编程帮助，还是日常生活中的小问题，W-AnywhereGPT 都能助您一臂之力。
 
-***
+***视频演示
 
 [https://github.com/wlhtea/W-AnywhereGPT/blob/master/W-AnywhereGPT.mp4](https://github.com/wlhtea/W-AnywhereGPT/assets/115779315/e32af71e-a71c-42e7-a2e6-494f9df4ecb9)
 
