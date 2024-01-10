@@ -11,7 +11,7 @@ W-AnywhereGPT，一款创新的桌面应用程序，让您能在任何场景下�
 ***
 
 <div align="center">
-  <video width="320" height="240" controls>
+  <video width="320" height="240">
     <source src="./W-AnywhereGPT.mp4" type="video/mp4">
   </video>
 </div>
