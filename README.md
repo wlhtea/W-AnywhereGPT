@@ -1,5 +1,14 @@
 <div align="center">
-  <img src="favicon.ico" alt="Your Image Description" width="200px" />
+  <img src="favicon.ico" alt="W-AnywhereGPT" width="200px" />
+</div>
+
+***
+
+<div align="center">
+  <video width="320" height="240" controls>
+    <source src="W-AnywhereGPT.mp4" type="video/mp4">
+    您的浏览器不支持 video 标签。
+  </video>
 </div>
 
 # W-AnywhereGPT 应用程序指南
