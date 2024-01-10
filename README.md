@@ -4,16 +4,15 @@
 
 ***
 
-<div align="center">
-  <video width="320" height="240" controls>
-    <source src="W-AnywhereGPT.mp4" type="video/mp4">
-    您的浏览器不支持 video 标签。
-  </video>
-</div>
-
 # W-AnywhereGPT 应用程序指南
 
 W-AnywhereGPT，一款创新的桌面应用程序，让您能在任何场景下快速利用 ChatGPT 的强大功能。无论是专业术语查询、语言翻译、编程帮助，还是日常生活中的小问题，W-AnywhereGPT 都能助您一臂之力。
+
+<div align="center">
+  <video width="320" height="240" controls>
+    <source src="W-AnywhereGPT.mp4" type="video/mp4">
+  </video>
+</div>
 
 ## 🚀 核心功能
 
